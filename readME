@@ -1,0 +1,4 @@
+This is a socket.io based chat app using nodejs.
+Till now group feature is avialible in future more features will be added to this app.
+Like one to one chat, double tick, time stamp, last seen etc
+
